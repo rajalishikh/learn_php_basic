@@ -10,6 +10,7 @@
       echo "hello php";
       echo "Hi I am first learn php ";
       echo "MY Target is regular codding ";
+      $my_name="Raj";
       
       
       ?>
