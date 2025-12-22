@@ -6,21 +6,15 @@
     <title>learn php Basic</title>
 </head>
 <body>
-    <?php
-
-    // learn php basic 
-      echo "hello php";
-      echo "Hi I am first learn php ";
-      echo "MY Target is regular codding ";
-      $my_name="Raj";
-      echo "MY full name is ".$my_name;
-
-      $show_print=print("Hello taher vhi kemon asen ")."<br>";
-      
-      echo $show_print;
-      
-      
-      ?>
+   <?php 
+   echo "Hello php learner welcome to new journey  ";
+   echo "Don't be affraid challanges ";
+   echo "যদি তুমি  হতাশ হইএয়া জাও তুমি হেরে জাবা যদি তূমি সাহসী হও জিতে জাবা ";
+   echo "বল বীর , 
+   বল উন্নত মম শীর 
+   
+   ";
+   ?>
     
 </body>
 </html>
