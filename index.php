@@ -6,17 +6,14 @@
     <title>learn php Basic</title>
 </head>
 <body>
-   <?php 
-   echo "Hello php learner welcome to new journey  ";
-   echo "Don't be affraid challanges ";
-   echo "যদি তুমি  হতাশ হইএয়া জাও তুমি হেরে জাবা যদি তূমি সাহসী হও জিতে জাবা ";
-   echo "বল বীর , 
-   বল উন্নত মম শীর ";
-   echo " code  eat  sleep repait ";
-
-   $my_aim_in_life ="I want to be full stack engineer and all so a teacher"; 
-   echo "Hi raj what is you aim in life ";
-   echo "my aim in life ".$my_aim_in_life ;
+   <?php
+   $value_1=77;
+   $value_2=88;
+   print(10+25).'<br>';
+   print(20+70).'<br>';
+   echo $value_1+$value_2.'<br>';
+   $know_about_print_statment=print("Hello edu proibar");
+   echo $know_about_print_statment;
 
 
    ?>
