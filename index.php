@@ -7,13 +7,12 @@
 </head>
 <body>
    <?php
-   $value_1=77;
-   $value_2=88;
-   print(10+25).'<br>';
-   print(20+70).'<br>';
-   echo $value_1+$value_2.'<br>';
-   $know_about_print_statment=print("Hello edu proibar");
-   echo $know_about_print_statment;
+   $my_value=10;
+   echo $my_value ."</br>";
+   echo "My name is Raj alI sheikh </br> ";
+   echo"Hani amir is so beautifull <br>";
+   echo "Hamja is most good person <br>";
+   echo "Al ways trust yourself <br>"
 
 
    ?>
